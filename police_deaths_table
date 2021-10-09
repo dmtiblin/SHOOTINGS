@@ -1,0 +1,7 @@
+CREATE TABLE police_deaths (
+id INT PRIMARY KEY,
+cause_short TEXT,
+state TEXT
+);
+
+select * from police_deaths;
