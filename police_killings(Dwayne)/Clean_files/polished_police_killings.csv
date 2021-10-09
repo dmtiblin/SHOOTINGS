@@ -1,0 +1,468 @@
+name,age,ethnicity,month,day,year,street_address,city,state,cause_of_death,armed
+"A'donte Washington",16,Black,February,23,2015,Clearview Ln,Millbrook,AL,Gunshot,No
+Aaron Rutledge,27,White,April,2,2015,300 block Iris Park Dr,Pineville,LA,Gunshot,No
+Aaron Siler,26,White,March,14,2015,22nd Ave and 56th St,Kenosha,WI,Gunshot,No
+Aaron Valdez,25,Hispanic/Latino,March,11,2015,3000 Seminole Ave,South Gate,CA,Gunshot,Firearm
+Adam Jovicic,29,White,March,19,2015,364 Hiwood Ave,Munroe Falls,OH,Gunshot,No
+Adam Reinhart,29,White,March,7,2015,18th St and Palm Ln,Phoenix,AZ,Gunshot,No
+Adrian Hernandez,22,Hispanic/Latino,March,27,2015,4000 Union Ave,Bakersfield,CA,Gunshot,Firearm
+Adrian Solis,35,Hispanic/Latino,March,26,2015,1500 Bayview Ave,Wilmington,CA,Gunshot,Non-lethal firearm
+Alan Alverson,44,White,January,28,2015,Pickett Runn Rd,Sunset,TX,Gunshot,Firearm
+Alan James,31,White,February,7,2015,200 Abbie St SE,Wyoming,MI,Gunshot,Other
+Albert Hanson Jr,76,White,April,26,2015,7th Ave and Kansas Ave,Hanford,CA,Gunshot,Knife
+Alec Ouzounian,40,White,May,12,2015,28 Paseo Viento,Rancho Santa Margarita,CA,Gunshot,No
+Alejandro Salazar,Unknown,Hispanic/Latino,February,20,2015,1200 E Airtex Dr,Houston,TX,Gunshot,No
+Alexander Long,31,White,February,25,2015,25th St and Poplar St,Terre Haute ,IN,Gunshot,Firearm
+Alexander Myers,23,White,April,6,2015,5700 block Ashby Dr,Indianapolis,IN,Gunshot,Non-lethal firearm
+Alexander Rivera,39,Hispanic/Latino,May,30,2015,1128 Murfreesboro Pike,Nashville,TN,Gunshot,Firearm
+Alexia Christian,25,Black,April,30,2015,141 Pryor St SW,Atlanta,GA,Gunshot,Vehicle
+Alfredo Rials-Torres,54,Hispanic/Latino,May,19,2015,4219 2nd Road N,Arlington,VA,Gunshot,Firearm
+Alice Brown,24,White,March,17,2015,Van Ness Ave and Pine St,San Francisco,CA,Gunshot,Firearm
+Alvin Haynes,57,Black,January,26,2015,1 Moreland Dr,San Francisco,CA,Death in custody,No
+Amilcar Perez-Lopez,21,Hispanic/Latino,February,26,2015,Folsom St and 24th St,San Francisco,CA,Gunshot,Vehicle
+Andre Murphy Sr,42,Black,January,7,2015,1223 Omaha Ave,Norfolk,NE,Death in custody,No
+Andres Lara-Rodriguez,21,Hispanic/Latino,February,13,2015,S 12th St and Ruby St,Kansas City,KS,Gunshot,Other
+Andrew Driver,36,White,March,13,2015,9700 Kempster Ave,Fontana,CA,Gunshot,Firearm
+Andrew Jackson,26,White,April,29,2015,1200 W Florida Ave,Chickasha,OK,Gunshot,Firearm
+Andrew Shipley,49,White,March,17,2015,360 Argyle Ct,Medford,OR,Gunshot,Firearm
+Andrew Toto,54,White,January,21,2015,Scobie Pond Rd and Julian Rd,Derry,NH,Gunshot,Firearm
+Andrew Valadez,26,White,April,23,2015,Tyler St and Glenoaks Blvd,Sylmar,CA,Gunshot,Firearm
+Andrew Williams,48,Black,March,6,2015,Putnam Loop Rd,Putnam Hall,FL,Gunshot,Firearm
+Andy Martinez,33,Hispanic/Latino,January,9,2015,4400 Tetons Dr,El Paso,TX,Gunshot,Firearm
+Angel Corona Jr,21,Hispanic/Latino,April,10,2015,4740 Barham Ave,Corning,CA,Gunshot,Knife
+Angelo West,41,Black,March,27,2015,Humboldt Ave and Ruthven St,Roxbury,MA,Gunshot,Firearm
+Anthony Bess,48,Black,February,10,2015,4545 Aldridge Dr,Memphis,TN,Gunshot,Vehicle
+Anthony Briggs,36,Black,May,25,2015,1100 E Gateway Dr SE,Huntsville,AL,Gunshot,Knife
+Anthony Giaquinta,41,Hispanic/Latino,February,22,2015,Lower Pond Ct,Clarkesville,GA,Gunshot,Firearm
+Anthony Gomez Jr,29,Black,May,19,2015,305 E Walnut St,Lancaster,PA,Gunshot,Knife
+Anthony Hill,27,Black,March,9,2015,3028 Chamblee Dunwoody Rd,Chamblee,GA,Gunshot,No
+Anthony Purvis,45,White,February,3,2015,1404 N June Ave,Douglas,GA,Gunshot,Firearm
+Antonio Perez,32,Hispanic/Latino,March,12,2015,2400 Flower St,Los Angeles,CA,Gunshot,Firearm
+Antonio Zambrano-Montes,35,Hispanic/Latino,February,10,2015,1107 W Lewis St,Pasco,WA,Gunshot,Firearm
+Artago Howard,36,Black,January,8,2015,9661 Strong Hwy,Strong,AR,Gunshot,Firearm
+Askari Roberts,35,Black,March,17,2015,3189 Morton Bend Rd,Rome,GA,Taser,Knife
+Aurelio Duarte,40,Hispanic/Latino,March,8,2015,3632 SW 38th St,Oklahoma City,OK,Gunshot,Vehicle
+Austin Goodner,18,White,May,17,2015,5236 Robin Ln N,St Petersburg,FL,Gunshot,Firearm
+Autumn Steele,34,White,January,6,2015,104 N Garfield Ave,Burlington,IA,Gunshot,Firearm
+Benito Osorio,39,Hispanic/Latino,March,11,2015,300 S Main St,Santa Ana,CA,Gunshot,Knife
+Benjamin Quezada,21,Hispanic/Latino,March,31,2015,West Texas Ave and Gaillard St,Baytown,TX,Gunshot,Other
+Bernard Moore,62,Black,March,6,2015,Metropolitan Pkwy and Fair Dr,Atlanta,GA,Struck by vehicle,No
+Betty Sexton,43,White,February,17,2015,2325 Union Rd,Gastonia,NC,Gunshot,Firearm
+Billy Grimm,44,White,May,3,2015,Arenal Rd SW and Tapia Blvd SW,Albuquerque,NM,Gunshot,Firearm
+Billy Patrick,29,White,April,26,2015,NA,Bunch,OK,Gunshot,Firearm
+Bobby Gross,35,Black,March,12,2015,700 14th St NW ,Washington,DC,Gunshot,Firearm
+Bradford Leonard,50,White,February,22,2015,900 Castile Rd SE,Palm Bay,FL,Gunshot,Knife
+Brandon Jones,18,Black,March,19,2015,1077 Parkwood Dr,Cleveland,OH,Gunshot,Firearm
+Brandon Lawrence,25,White,April,25,2015,800 Simpson Rd,Victoria,TX,Gunshot,Firearm
+Brandon Rapp,31,White,March,18,2015,9000 Charles Way,Middleton,ID,Gunshot,Knife
+Brendon Glenn,29,Black,May,6,2015,1602 Pacific Ave,Los Angeles,CA,Gunshot,Firearm
+Brian Babb,49,White,March,31,2015,2200 Devos St,Eugene,OR,Gunshot,Firearm
+Brian Barbosa,23,Unknown,January,11,2015,8900 Kauffman Ave,South Gate,CA,Gunshot,Firearm
+Brian Fritze,45,White,February,10,2015,I-70 and US-6,Glenwood Springs,CO,Gunshot,Knife
+Brian Pickett,26,Black,January,6,2015,1600 E 123rd St,Los Angeles,CA,Taser,Firearm
+Brock Nichols,35,White,January,6,2015,2388 E Kansas Hwy 4,Assaria,KS,Gunshot,Knife
+Bruce Steward,34,White,February,15,2015,29000 S Wall St,Colton,OR,Gunshot,Non-lethal firearm
+Bruce Zalonka,46,Asian/Pacific Islander,May,12,2015,1031 Nuuanu Ave,Honolulu,HI,Gunshot,No
+Byron Herbert,29,Black,March,29,2015,111 Towne Dr,Elizabethtown,KY,Gunshot,Knife
+Calvon Reid,39,Black,February,22,2015,1701 Andros Isle,Coconut Creek,FL,Taser,Firearm
+Carl Lao,28,Asian/Pacific Islander,March,4,2015,South San Joaquin St and East Church St,Stockton,CA,Gunshot,Knife
+Carlos Saavedra Ramirez,51,Hispanic/Latino,April,22,2015,101 Naco Hwy,Bisbee,AZ,Gunshot,Knife
+Carter Ray Castle,67,White,January,18,2015,Kentucky Rte 7,Gunlock,KY,Gunshot,Firearm
+Cary Martin,53,White,May,14,2015,497 Florida Ave,St Augustine,FL,Gunshot,Firearm
+Caso Jackson,25,Black,May,23,2015,13331 Strathmoor St,Detroit,MI,Gunshot,No
+Cedrick Bishop,30,Black,March,9,2015,Aurora St,Cocoa,FL,Gunshot,Knife
+Celin Nunez,24,Hispanic/Latino,April,13,2015,3 Greens Rd,Houston,TX,Gunshot,No
+Chance Thompson,35,White,February,15,2015,Hammonton Smartville Rd,Marysville,CA,Taser,Firearm
+"Charly 'Africa' Keunang",43,Black,March,1,2015,500 San Pedro St,Los Angeles,CA,Gunshot,Vehicle
+Chazsten Freeman,24,White,February,27,2015,South Carolina Rte 8 and Augusta Rd,Peltzer,SC,Gunshot,Firearm
+Chris Ingram,29,White,January,27,2015,Coronado Trail,Morenci,AZ,Gunshot,Firearm
+Chrislon Talbott,38,Black,May,21,2015,4585 Frederica St,Owensboro,KY,Gunshot,Firearm
+Christopher Finley,31,White,April,14,2015,900 Walnut St,Jonesboro,AR,Gunshot,No
+Christopher Healy,36,White,March,22,2015,2300 SE 130th Ave,Portland,OR,Gunshot,Other
+Christopher Mitchell,23,White,March,10,2015,6530 Georgia Rte 21,Port Wentworth,GA,Gunshot,Firearm
+Christopher Prevatt,38,White,April,3,2015,123 Gregory Pl,Winchester,VA,Gunshot,Firearm
+Clifton Reintzel,53,White,March,13,2015,600 Main St,Follansbee,WV,Gunshot,No
+Cody Evans,24,White,February,15,2015,1600 W 500 N,Provo,UT,Gunshot,Knife
+Cody Karasek,26,White,January,28,2015,4100 Avenue I,Rosenberg,TX,Gunshot,Firearm
+Cornelius Parker,28,Black,February,28,2015,E Broadway and US-63,Columbia,MO,Gunshot,Firearm
+Crystal Miley,34,White,February,26,2015,5101 Georgia Rte 133,Moultrie,GA,Gunshot,Knife
+"D'Angelo Stallworth",28,Black,May,12,2015,7300 Blanding Blvd,Jacksonville,FL,Gunshot,Firearm
+DaJuan Graham,40,Black,May,12,2015,13900 Castle Blvd,Silver Spring,MD,Taser,Firearm
+Dalton Branch,51,Black,May,26,2015,530 Stanley Ave,New York,NY,Gunshot,No
+Dana Hlavinka,44,White,April,19,2015,1363 Clark Dr,Sidney,NE,Gunshot,Firearm
+Daniel Brumley,25,Hispanic/Latino,January,17,2015,NE 36th St,Fort Worth,TX,Gunshot,Firearm
+Daniel Caldwell,56,White,February,16,2015,8351 N Cracker Barrel Rd,Marana,AZ,Gunshot,Knife
+Daniel Covarrubias,37,Hispanic/Latino,April,21,2015,3600 SW 108th St,Lakewood,WA,Gunshot,Firearm
+Daniel Davis,58,White,April,25,2015,8624 Firestone Cir,Clermont,FL,Gunshot,Firearm
+Daniel Elrod,39,White,February,24,2015,1299 Hickory St,Omaha,NE,Gunshot,Firearm
+Daniel Mejia,37,Hispanic/Latino,February,15,2015,200 S McNab Pkwy,San Manuel,AZ,Gunshot,No
+Daniel Wolfe,35,Black,April,21,2015,1714 Walker Ave,Union,NJ,Gunshot,Knife
+Darin Hutchins,26,Black,January,24,2015,1900 McHenry St,Baltimore,MD,Gunshot,Firearm
+"Darrell 'Hubbard' Gatewood",47,Black,March,1,2015,616 SW 59th St,Oklahoma City,OK,Taser,Firearm
+Darrell Brown,31,Black,April,16,2015,402 North Prospect St,Hagerstown,MD,Taser,Firearm
+Darrell Morgan,60,White,May,28,2015,3164 Charlotte Hwy,Lancaster,SC,Gunshot,No
+Darrin Langford,32,Black,April,2,2015,12th Ave and Glenhurst Ct,Rock Island,IL,Gunshot,No
+Daryl Myler,45,White,January,24,2015,164 E Main St,Rexburg,ID,Gunshot,Non-lethal firearm
+David Cuevas,42,Hispanic/Latino,February,26,2015,4660 N Socrum Loop Rd,Lakeland,FL,Gunshot,Firearm
+David Gaines,17,White,May,19,2015,N 10th St and Gunnison Ave,Grand Junction,CO,Gunshot,Firearm
+David Gandara,22,Hispanic/Latino,May,21,2015,5111 Fairbanks Dr,El Paso,TX,Gunshot,Firearm
+David Garcia,33,Hispanic/Latino,January,26,2015,1134 E St,Wasco,CA,Gunshot,Firearm
+David Johnson,18,White,May,7,2015,300 Stone Monument Dr,Wake Forest,NC,Gunshot,No
+David Kapuscinski,39,White,April,16,2015,14680 Middle Gibraltar Rd,Rockwood,MI,Taser,Firearm
+David Kassick,59,White,February,2,2015,36 Grandview Rd,Hanover,PA,Gunshot,Firearm
+David Lynch,33,White,April,3,2015,11974-11998 US-64,Muskogee County,OK,Taser,Firearm
+David Parker,58,White,April,28,2015,36 Randall Rd,Mansfield,OH,Gunshot,Firearm
+David Schwalm,58,White,May,8,2015,168 Auringer Rd,Constantania,NY,Gunshot,No
+David Watford,47,White,March,17,2015,US-65,Tallulah,LA,Struck by vehicle,Firearm
+David Werblow,41,White,March,15,2015,134 Burban Dr,Branford,CT,Taser,Other
+Dean Bucheit,64,White,February,9,2015,13600 Culver Blvd,Los Angeles,CA,Struck by vehicle,Firearm
+Dean Genova,45,White,April,26,2015,13822 Brookhurst St,Garden Grove,CA,Gunshot,Firearm
+Deanne Choate,53,White,March,26,2015,400 N Birch,Gardner,KS,Gunshot,Firearm
+Declan Owen,24,White,March,17,2015,8100 North Carolina Hwy 41,Dublin,NC,Gunshot,Knife
+Dedrick Marshall,48,Black,May,8,2015,3020 Destrehan Ave,Harvey,LA,Gunshot,Firearm
+Demaris Turner,29,Black,January,23,2015,1980 NW 46 Ave,Lauderhill,FL,Gunshot,No
+Denis Reyes,40,Hispanic/Latino,May,15,2015,274 E 194th St,New York,NY,Death in custody,Firearm
+Dennis Fiel,34,White,May,17,2015,7700 Mesa College Dr,San Diego,CA,Gunshot,Vehicle
+Denzel Brown,21,Black,March,22,2015,1851 Sunrise Hwy,Bay Shore,NY,Gunshot,Firearm
+Derek Cruice,26,White,March,4,2015,800 Maybrook Dr,Deltona,FL,Gunshot,Unknown
+Desmond Luster,45,Black,February,9,2015,7400 Bonnie View Rd,Dallas,TX,Gunshot,Firearm
+Desmond Willis,25,Black,April,6,2015,2515 Manhattan Blvd,Harvey,LA,Gunshot,Firearm
+Deven Guilford,17,White,March,1,2015,331 W Grand Ledge Hwy,Roxand Township,MI,Gunshot,Non-lethal firearm
+Devin Gates,24,Black,March,22,2015,2105 Scott Blvd,Santa Clara,CA,Gunshot,Other
+Dewayne Carr,42,Black,January,15,2015,Chaparral Rd and Hayden Rd,Scottsdale,AZ,Gunshot,Knife
+Dewayne Ward Jr,29,Black,February,3,2015,1000 Claudia Ct,Antioch,CA,Gunshot,Firearm
+Dexter Bethea,42,Black,April,8,2015,3022 James Rd,Valdosta,GA,Gunshot,Knife
+Dominick Wise,30,Black,March,30,2015,1301 Spring Meadow Ln,Culpeper,VA,Taser,Firearm
+Don Smith,29,Black,April,9,2015,8516 N Meridian Rd,Monon,IN,Gunshot,Firearm
+"Donald 'Dontay' Ivy",39,Black,April,2,2015,Lark St and Second St,Albany,NY,Taser,Firearm
+Donald Hicks,63,White,April,2,2015,Illinois Rte 145 and Waldo Church Rd,Metropolis,IL,Gunshot,Non-lethal firearm
+Donald Matkins,49,White,March,1,2015,Mt Pleasant Rd,Lucedale,MS,Gunshot,Firearm
+Donte Noble,41,Black,April,15,2015,200 Canaan Pointe Dr,Spartanburg,SC,Gunshot,Firearm
+Donte Sowell,27,Black,January,15,2015,East 38th St and North Mitthoeffer Rd,Indianapolis,IN,Gunshot,Other
+Doug Sparks,30,White,February,17,2015,Forest Ave,Tewksbury,MA,Gunshot,No
+Douglas Faith,60,White,April,8,2015,Karen Ln and Corinne Dr,San Antonio,TX,Gunshot,Knife
+Douglas Harris,77,Black,March,27,2015,7901 1st Ave S,Birmingham,AL,Gunshot,No
+Ebin Proctor,19,Unknown,May,30,2015,Yuma Circle,Cottonwood,AZ,Gunshot,No
+Edixon Franco,37,Hispanic/Latino,March,10,2015,Fern Ave and Phillips St,Ontario,CA,Gunshot,Firearm
+Edward Bright Sr,54,Black,January,31,2015,9800 Liberty Rd,Randallstown,MD,Gunshot,Firearm
+Elias Cavazos,29,Hispanic/Latino,April,17,2015,Girard Street and Acacia Ave,Hemet,CA,Gunshot,Firearm
+Elton Simpson,30,Black,May,3,2015,4999 Naaman Forest Blvd,Garland,TX,Gunshot,No
+Elvin Diaz,24,Hispanic/Latino,May,21,2015,10 Temple Ave,Hackensack,NJ,Gunshot,Knife
+Enoch Gaver,21,White,March,21,2015,2003 E Rodeo Dr,Cottonwood,AZ,Gunshot,Firearm
+Eric Harris,44,Black,April,2,2015,1900 block N Harvard Ave,Tulsa,OK,Gunshot,Firearm
+Eric Robinson,40,White,May,23,2015,135 N Main St,Eagar,AZ,Gunshot,Firearm
+Erick Rose,32,White,April,7,2015,Post Office Neck Rd and Lake Rd,Shawnee,OK,Gunshot,Knife
+Erick Sanchez,22,Hispanic/Latino,April,30,2015,11565 James Watt Dr,El Paso,TX,Gunshot,Knife
+Erik Tellez,43,White,April,18,2015,20th St and Thomas Rd,Phoenix,AZ,Gunshot,Firearm
+Ernesto Flores,52,Hispanic/Latino,April,15,2015,11157 Chico Ave,Pomona,CA,Gunshot,Knife
+Ernesto Javier Canepa Diaz,27,Hispanic/Latino,February,27,2015,1000 W 3rd St,Santa Ana,CA,Gunshot,No
+Ethan Noll,34,White,April,4,2015,Mountainair St,Edgewood,NM,Gunshot,Vehicle
+Eugene Smith II,20,White,March,17,2015,313 S Houston Ave,Onalaska,TX,Gunshot,No
+Fednel Rhinvil,25,Black,March,3,2015,East Rd and Olivia St,Salisbury,MD,Gunshot,Firearm
+Felix David,24,Black,April,25,2015,538 E Sixth St,New York,NY,Gunshot,Knife
+Feras Morad,20,Unknown,May,27,2015,4600 E 15th St,Long Beach,CA,Gunshot,Firearm
+Fletcher Stewart,46,White,February,11,2015,Booger Hollow Rd,Dadeville,AL,Gunshot,Firearm
+Francis Rose III,42,White,February,2,2015,9000 Buena Vista St,Apple Valley,CA,Gunshot,Firearm
+Francis Spivey,43,White,February,25,2015,5300 East Craig Road,Las Vegas,NV,Gunshot,Firearm
+"Frank 'Trey' Shephard III",41,Black,April,15,2015,Castlegory Rd and Wallisville Rd,Houston,TX,Gunshot,No
+Fred Liggett Jr,59,White,March,13,2015,8700 E 97th Ter,Kansas City,MO,Gunshot,No
+Freddie Gray,25,Black,April,12,2015,Mount St and Presbury St,Baltimore,MD,Death in custody,Firearm
+Fridoon Rawshannehad,42,White,April,30,2015,3200 Hancock St,San Diego,CA,Gunshot,Firearm
+Garland Wingo,64,White,March,18,2015,Lake Ella,Tallahassee,FL,Gunshot,Firearm
+Garrett Gagne,22,White,January,1,2015,Crowell Rd and Tipcart Dr,Chatham,MA,Struck by vehicle,Unknown
+Garrett Sandeno,24,White,May,27,2015,1701 Ridgecrest Rd,Edmond,OK,Gunshot,Knife
+Gary Collins,63,White,April,25,2015,H St NW and 20th Ave NW,Miami,OK,Gunshot,No
+Gary Kendrick,56,White,March,27,2015,Shadytree Ln and Glen Arbor Dr,Encinitas,CA,Gunshot,No
+Gary Page,60,White,March,21,2015,1790 E Voorhees St,Harmony,IN,Gunshot,No
+Gilbert Fleury,54,White,March,11,2015,Cliffs Landing Rd,Bay Minette,AL,Gunshot,Firearm
+Glenn Lewis,37,Black,February,25,2015,2201 NW 27th St,Oklahoma City,OK,Gunshot,No
+Gordon Kimbrell Jr,22,White,April,9,2015,9265 Quail Roost Dr,Navarre,FL,Gunshot,Firearm
+Gregory Smith,39,White,March,30,2015,2293 N Main St,Crown Point,IN,Taser,Firearm
+Grover Sapp Jr,45,White,April,18,2015,1200 Beck Ave,Panama City,FL,Gunshot,Knife
+Harry Davis,57,White,May,27,2015,Sparta Hwy and Oconee Springs Rd,Eatonton,GA,Gunshot,No
+Harvey Oates,42,White,March,27,2015,Horseshoe Run Rd,Fort Ashby,WV,Gunshot,Firearm
+Hashim Abdul-Rasheed,41,Black,January,7,2015,4600 International Gateway,Columbus,OH,Gunshot,Firearm
+Hector Morejon,19,Hispanic/Latino,April,23,2015,1100 Hoffman Ave,Long Beach,CA,Gunshot,No
+Herbert Hill,26,Black,February,6,2015,1000 SW 62nd St,Oklahoma City,OK,Gunshot,Knife
+Howard Brent Means Jr,34,White,February,15,2015,1110 Battleground Dr,Iuka,MS,Gunshot,No
+Howard Robbins,69,White,January,16,2015,US-150,Stanford,KY,Struck by vehicle,No
+Hue Dang,64,Asian/Pacific Islander,March,9,2015,E Kennedy St,Hackensack,NJ,Struck by vehicle,No
+Hung Trieu,35,Asian/Pacific Islander,February,2,2015,13442 Bellaire Blvd,Houston,TX,Gunshot,No
+Ian Sherrod,40,Black,February,28,2015,2300 block Main St,Tarboro,NC,Gunshot,No
+Isaac Holmes,19,Black,January,21,2015,4200 St Louis Ave,St Louis,MO,Gunshot,Firearm
+Isaac Jimenez,27,Hispanic/Latino,April,13,2015,3400 Lincoln Ave,Alton,IL,Gunshot,No
+Izzy Colon,37,Hispanic/Latino,February,4,2015,4304 Pershing Pointe Pl,Orlando,FL,Gunshot,Firearm
+Jacob Haglund,17,White,February,2,2015,1600 3rd St,Bay City,MI,Gunshot,Knife
+Jamalis Hall,39,Black,March,27,2015,1000 block Mayflower Rd,Fort Pierce,FL,Gunshot,Firearm
+James Allen,74,Black,February,7,2015,2701 Mary Ave,Gastonia,NC,Gunshot,Firearm
+James Barker,42,White,January,8,2015,600 Second Ave,Salt Lake City,UT,Gunshot,Firearm
+James Bushey,47,White,June,1,2015,2225 Texas Hwy 256 Loop,Palestine,TX,Gunshot,No
+James Cooper,43,White,May,20,2015,3271 Dartmouth Dr,Charleston,SC,Gunshot,Knife
+James Damon,46,White,March,9,2015,US-40,Craig,CO,Gunshot,No
+James Ellis,44,White,March,21,2015,New York State Rte 31A,Clarendon,NY,Gunshot,Firearm
+James Greenwell,31,White,March,11,2015,700 N Auburndale St,Memphis,TN,Gunshot,Other
+James Horn Jr,47,White,May,23,2015,SE 650th Rd,Green Ridge,MO,Gunshot,Firearm
+James Jimenez,41,Hispanic/Latino,March,13,2015,1410 Hill Ave,Napa,CA,Gunshot,Firearm
+James Moore,43,White,March,22,2015,5900 S Lewis Ave,Tulsa,OK,Struck by vehicle,Vehicle
+James Morris,40,Unknown,May,31,2015,Juanipero Way and La Loma Dr,Medford,OR,Gunshot,Non-lethal firearm
+James Strong,32,Black,May,28,2015,10900 E 109th Pl,Northglenn,CO,Gunshot,Firearm
+Jamie Croom,31,Black,March,10,2015,10064 Elm Grove Garden Dr,Baton Rouge,LA,Gunshot,Vehicle
+Jamison Childress,20,White,March,19,2015,Kneuman Rd,Sumas,WA,Gunshot,Firearm
+Janisha Fonville,20,Black,February,19,2015,Bellefonte Dr,Charlotte,NC,Gunshot,Firearm
+Jared Forsyth,33,White,April,6,2015,11120 NW Gainesville Rd,Ocala,FL,Gunshot,No
+Jared Johnson,22,Black,April,28,2015,8400 Chef Menteur Hwy,New Orleans,LA,Gunshot,Other
+Jason Carter,41,White,February,21,2015,298 Gavilan Canyon Rd,Rudioso,NM,Gunshot,No
+Jason Champion,41,Black,May,6,2015,I-95,Ridgefield Park,NJ,Struck by vehicle,No
+Jason Evans,32,White,April,12,2015,North Carolina Hwy 242 and Reeda Branch Rd,Salemburg,NC,Gunshot,Knife
+Jason Hendrix,16,White,February,14,2015,1486 Hyde Park Rd,Essex,MD,Gunshot,Firearm
+Jason Moland,29,Black,March,30,2015,3700 Beyer Park Dr,Modesto,CA,Gunshot,Knife
+Jason Smith,42,White,March,20,2015,4604 Summit St,Columbus,OH,Gunshot,Unknown
+Javoris Washington,29,Black,May,21,2015,SW 29th Ave and SW 29th Terrace,Fort Lauderdale,FL,Gunshot,Unknown
+Jeff Alexander,47,White,March,17,2015,1125 1/2 19th St,Bakersfield,CA,Gunshot,Firearm
+Jeffery Adkins,53,Black,April,30,2015,200 Elm Rd,Emporia,VA,Gunshot,Other
+Jeffery Kemp,18,Black,April,17,2015,74th Street and Merrill Ave,Chicago,IL,Gunshot,No
+Jeffrey Jackson,47,White,March,22,2015,Kentucky Rte 92,Williamsburg,KY,Death in custody,Firearm
+Jeffrey Nielson,34,White,January,14,2015,120 Honey Berry Ct,Draper,UT,Gunshot,No
+Jeffrey Pitts,36,White,May,31,2015,3500 Ebenezer Rd,Conyers,GA,Gunshot,Firearm
+Jeffrey Surnow,63,White,March,1,2015,Waikoloa Rd,Waikoloa Village,HI,Struck by vehicle,Firearm
+Jeremy Anderson,36,White,March,31,2015,1600 Grass Lake Dr,Tampa Bay,FL,Gunshot,No
+Jeremy Kelly,27,Black,March,25,2015,Dixie St,Johnsonville,SC,Gunshot,Firearm
+Jeremy Lett,28,Black,February,5,2015,2400 W Tharpe St,Tallahassee,FL,Gunshot,Vehicle
+Jermonte Fletcher,33,Black,January,27,2015,265 Buffalo Ct,Columbus,OH,Gunshot,No
+Jerome Caldwell,32,Black,May,21,2015,83 Beaufain St,Charleston,SC,Gunshot,No
+Jerome Nichols,42,White,February,23,2015,N Plymouth St,Allentown,PA,Gunshot,Knife
+Jess Leipold,31,White,April,9,2015,45 Major Bell Ln,Gettysburg,PA,Gunshot,Firearm
+Jessica Hernandez,17,Hispanic/Latino,January,26,2015,Newport St & E 25th Ave,Denver,CO,Gunshot,Firearm
+Jessica Uribe,28,Unknown,February,28,2015,"1113 W St Mary's Rd",Tuscon ,AZ,Gunshot,Firearm
+Jessie Williams,24,White,May,26,2015,200 John Wesly Blvd,Bossier City,LA,Gunshot,Firearm
+Jimmy Foreman,71,Unknown,January,9,2015,422 SE 3rd St,England,AR,Gunshot,Firearm
+Jimmy Robinson Jr,51,Black,February,4,2015,I-35,Waco,TX,Gunshot,No
+Joaquin Hernandez,28,Hispanic/Latino,February,4,2015,E Baseline Rd and S 48th St,Phoenix,AZ,Gunshot,Other
+John Acree,53,White,April,30,2015,812 Forest Hills Dr,Nashville,TN,Gunshot,Firearm
+John Allen,54,White,March,30,2015,841 Avenue A,Boulder City,NV,Gunshot,No
+John Ballard Gorman,45,White,January,21,2015,3468 Casino Way,Robinsonville,MS,Gunshot,Firearm
+John Kaafi,33,White,May,7,2015,8th St and N Orange Ave,Sarasota,FL,Unknown,Other
+John Marshall,48,White,January,30,2015,"Billings Clinic, 2800 10th Ave N",Billings,MT,Gunshot,Firearm
+"John O'Keefe",34,White,January,13,2015,Constitution Ave and San Mateo Blvd,Albuquerque,NM,Gunshot,Firearm
+John Quintero,23,Hispanic/Latino,January,3,2015,500 North Oliver Ave,Wichita,KS,Gunshot,Knife
+John Sawyer,35,White,February,5,2015,1200 Calimesa Blvd,Calimesa,CA,Gunshot,Firearm
+John Whittaker,33,Hispanic/Latino,February,10,2015,1503 Medfra St,Anchorage,AK,Gunshot,Knife
+Johnathon Guillory,32,White,January,18,2015,Greenland Park Dr,Maricopa,AZ,Gunshot,Firearm
+Jonathan Colley,52,White,May,20,2015,2569 Raber Rd,Green,OH,Gunshot,Firearm
+Jonathan Efraim,30,White,April,22,2015,16802 Hillside Ave,New York,NY,Gunshot,No
+Jonathan Harden,23,White,February,13,2015,4023 University Pkwy,San Bernadino,CA,Gunshot,Firearm
+Jonathan McIntosh,35,White,May,19,2015,900 E Main St,Cabot,AR,Gunshot,Knife
+Jonathan Paul,42,Black,March,12,2015,300 E Mitchell St,Arlington,TX,Death in custody,No
+Jonathan Pierce,37,White,February,12,2015,"Port St Joe Police Station, 410 Williams Ave",Port St Joe,FL,Gunshot,No
+Jose Antonio Espinoza Ruiz,56,Hispanic/Latino,January,23,2015,202 Avenue A,Levelland,TX,Gunshot,No
+Jose Ceja,36,Hispanic/Latino,January,15,2015,2007 Sousa Ct,Fairfield,CA,Gunshot,Disputed
+Jose Herrera,27,Hispanic/Latino,April,22,2015,3000 W Cecil Ave,Delano,CA,Gunshot,Firearm
+Joseph Biegert,30,White,February,24,2015,1500 Plymouth Ln,Green Bay,WI,Gunshot,Firearm
+Joseph Caffarello,31,White,January,7,2015,6100 Scott St,Rosemont,IL,Gunshot,Firearm
+Joseph Paffen,46,White,February,8,2015,4501 Hoffner Ave,Orlando,FL,Gunshot,Firearm
+Joseph Potts,51,White,April,23,2015,182 N4430 Rd,Rufe,OK,Gunshot,Firearm
+Joseph Roy,72,Unknown,May,7,2015,2853 Avalon Meadows Ct,Lawrenceville,GA,Gunshot,Firearm
+Joseph Slater,28,White,April,15,2015,27767 Base Line,Highland,CA,Death in custody,Knife
+Joseph Tassinari,63,White,March,24,2015,6600 W Christy Dr,Glendale,AZ,Gunshot,Firearm
+Joseph Weber,28,White,April,8,2015,Tasman Dr and Lawrence Expy,Sunnyvale,CA,Gunshot,Firearm
+Joshua Deysie,33,Hispanic/Latino,April,29,2015,1400 E Harmony Ave,Mesa,AZ,Gunshot,Knife
+Joshua Garcia,24,Hispanic/Latino,January,26,2015,2500 FM1054,Tahoka,TX,Gunshot,Knife
+Joshua Green,27,White,April,28,2015,1408 W Main St,Marion,IL,Gunshot,Firearm
+Justin Fowler,24,Native American,March,19,2015,Indian Rte 13,Lukachukai,AZ,Gunshot,Firearm
+Justin Tolkinen,28,White,March,16,2015,400 White Bear Ave,St Paul,MN,Gunshot,Firearm
+Justin Way,28,White,May,11,2015,225 Presidents Cup Way,St Augustine,FL,Gunshot,Firearm
+Justus Howell,17,Black,April,4,2015,2300 Gilead Ave,Zion,IL,Gunshot,Firearm
+Karen Janks,46,White,April,23,2015,2661 Gravenstein Hwy S,Sebastopol,CA,Gunshot,Vehicle
+Karl Taylor,52,Black,April,14,2015,325 Riverside Dr,Fallsburg,NY,Death in custody,Firearm
+Kavonda Payton,39,Black,January,16,2015,138 Del Mar Cir,Aurora,CO,Gunshot,Vehicle
+Kaylene Stone,49,White,March,18,2015,6735 W Peoria Ave,Peoria ,AZ,Gunshot,Non-lethal firearm
+Kelvin Goldston,30,Black,May,11,2015,6024 Wheaton Dr,Fort Worth,TX,Gunshot,No
+Ken Cockerel,51,White,April,3,2015,W Union Hills Dr and N 39th Ave,Phoenix,AZ,Gunshot,No
+Kendre Alston,16,Black,March,19,2015,1800 Helena St,Jacksonville,FL,Gunshot,Firearm
+Kenneth Brown,18,White,January,4,2015,NA,Guthrie,OK,Gunshot,Non-lethal firearm
+Kenneth Buck,22,Hispanic/Latino,January,5,2015,E Knox Rd,Chandler,AZ,Gunshot,No
+Kenneth Dothard,40,Black,May,28,2015,900 Bankhead Hwy,Carrollton,GA,Gunshot,Firearm
+Kenneth Kreyssig,61,White,February,10,2015,645 Smyrna Center Rd,Smyrna,ME,Gunshot,Knife
+Kenneth Mathena,52,White,May,2,2015,30 Malvern Ln,Smyrna,DE,Gunshot,Firearm
+Kent Norman,51,White,February,21,2015,1800 Heather Cir,Indianapolis,IN,Gunshot,Firearm
+Kevin Allen,36,Black,May,29,2015,355 Valley Brook Ave,Lyndhurst,NJ,Gunshot,Firearm
+Kevin Norton,36,White,May,3,2015,210 W 300 N,Roosevelt,UT,Gunshot,No
+Kimber Key,59,White,April,21,2015,107 White Falls Dr,Columbia,SC,Gunshot,No
+Kristiana Coignard,17,White,January,22,2015,"Longview Police Department, 302 W Cotton St",Longview,TX,Gunshot,Firearm
+Kyle Baker,18,White,May,28,2015,2800 Longmeadow Dr,Trenton,MI,Gunshot,No
+Larry Hostetter,41,White,February,9,2015,200 Jordan Dr,Nocona,TX,Gunshot,Other
+Larry Kobuk,33,Native American,January,28,2015,"Corrections Department, 1400 E 4th Ave",Anchorage,AK,Death in custody,Knife
+Lavall Hall,25,Black,February,15,2015,19157 NW 3rd Ave,Miami Gardens,FL,Gunshot,Firearm
+Ledarius Williams,23,Black,February,3,2015,Minnesota Ave and Meramec St,St Louis,MO,Gunshot,No
+Leslie Sapp III,47,Black,January,6,2015,Redlyn St,Pittsburgh,PA,Gunshot,Firearm
+Lester Brown,58,White,March,9,2015,85 Almost Home Rd,Penrose,NC,Gunshot,Firearm
+Lewis Lembke,47,White,January,2,2015,4505 SW Masters Loop,Aloha,OR,Gunshot,No
+Lionel Young,34,Black,May,10,2015,950 Nalley Rd,Landover,MD,Gunshot,Firearm
+Loren Simpson,28,White,January,8,2015,3618 White Buffalo Rd,Huntley,MT,Gunshot,Firearm
+Lorenzo Hayes,37,Black,May,13,2015,N Addison St and E Sanson Ave,Spokane,WA,Death in custody,No
+Louis Becker,87,White,January,14,2015,New York State Rte 23 and Cairo Junction Rd,Catskill,NY,Struck by vehicle,Firearm
+Lue Vang,39,Asian/Pacific Islander,April,22,2015,4100 Eldorado Springs Dr,Boulder,CO,Gunshot,Firearm
+Luis Chavez-Diaz,27,Hispanic/Latino,April,29,2015,1624 Hood Franklin Rd,Elk Grove,CA,Gunshot,Knife
+Luis Molina Martinez,35,Hispanic/Latino,April,21,2015,3400 Manitou Ave,Los Angeles,CA,Gunshot,Firearm
+Mack Long,36,Black,April,12,2015,E 31st St and N Sherman Dr,Indianapolis,IN,Gunshot,Vehicle
+Marcus Golden,24,Black,January,14,2015,261 E University Ave,St Paul,MN,Gunshot,Vehicle
+Marcus Wheeler,26,Black,May,20,2015,3057 Martin Ave,Omaha,NE,Gunshot,No
+Mario Jordan,34,Black,January,14,2015,Sir Gawaine Dr,Chesapeake,VA,Gunshot,Firearm
+Mark Adair,51,White,April,15,2015,Hitt St and Elm St,Columbia,MO,Gunshot,Other
+Mark Cecil Hawkins,49,White,April,24,2015,1940 Turner Rd SE,Salemburg,OR,Gunshot,Firearm
+Mark Farrar,41,White,May,15,2015,1806 16th Ave,Rockford,IL,Gunshot,Firearm
+Mark Smith,54,White,April,8,2015,W 141st St and 257th W Ave,Kellyville,OK,Gunshot,No
+Markell Atkins,36,Black,February,4,2015,3800 Vernon Ave,Memphis,TN,Gunshot,Firearm
+Markus Clark,26,Black,May,20,2015,600 NW 27th Ave,Fort Lauderdale,FL,Unknown,Firearm
+Matautu Nuu,35,Asian/Pacific Islander,January,28,2015,Martinique Ct,Stockton,CA,Gunshot,Firearm
+Matthew Ajibade,22,Black,January,1,2015,1050 Carl Griffin Dr,Savannah,GA,Death in custody,Other
+Matthew Belk,27,White,February,13,2015,2420 Terry Rd,Huntingdon,TN,Gunshot,Other
+Matthew Coates,42,White,May,16,2015,2010 61st St,Sacramento,CA,Gunshot,Firearm
+Matthew Hoffman,32,White,January,4,2015,630 Valencia St,San Francisco,CA,Gunshot,Other
+Matthew Lundy,32,White,February,17,2015,3800 Canfield Rd,Eaton Rapids Township,MI,Gunshot,Other
+Matthew Metz,25,White,March,3,2015,College Ave and Curry Rd,Tempe,AZ,Gunshot,Firearm
+Meagan Hockaday,26,Black,March,27,2015,500 W Vineyard Ave,Oxnard,CA,Gunshot,No
+Michael Asher,53,White,May,4,2015,Doctors Row,Chavies,KY,Gunshot,No
+Michael Casper,26,White,February,16,2015,Malad St and Gourley St,Boise,ID,Gunshot,Knife
+Michael Foster,40,White,April,19,2015,105 Hinkle St,Wilmore,KY,Gunshot,Non-lethal firearm
+Michael Gallagher,55,White,May,10,2015,100 Whitfield St,Enfield,NC,Taser,Firearm
+Michael Goebel,29,White,January,14,2015,600 Spring Dr,Robertsville,MO,Gunshot,No
+Michael Ireland,31,White,February,18,2015,1400 N Marion Ave,Springfield,MO,Gunshot,No
+Michael Kocher Jr,19,White,January,3,2015,2600 Kaumualii Hwy,Kaumakani,HI,Struck by vehicle,Knife
+Michael Lemon,57,Unknown,April,8,2015,11936 California Rte 178,Lake Isabella,CA,Taser,Firearm
+Michael Lowrey,40,White,May,22,2015,1534 N Center Ave,Somerset,PA,Gunshot,Knife
+Michael McKillop,35,White,March,8,2015,Northtowne Plaza Shopping Center,Claymount,DE,Gunshot,Firearm
+Michael Murphy,35,White,May,7,2015,I-84,Beacon,NY,Gunshot,Firearm
+Michael Rodriguez,39,Hispanic/Latino,January,5,2015,818 31st St,Evans,CO,Gunshot,Firearm
+Michael Smashey,37,White,February,23,2015,4817 W Mceachern Woods Dr,Powder Springs,GA,Gunshot,No
+Miguel Anguel de Santos-Rodriguez,36,Hispanic/Latino,January,21,2015,Chape�_�o Rd,Roma,TX,Gunshot,Firearm
+Millard Tallant III,62,White,May,26,2015,17500 Tester Rd ,Snohomish,WA,Gunshot,Knife
+Monique Deckard,43,Black,March,8,2015,900 S Euclid St,Anaheim,CA,Gunshot,Firearm
+Mychael Lynch,32,White,March,23,2015,707 W 13th St,Vancouver,WA,Death in custody,Knife
+Nadir Soofi,34,Asian/Pacific Islander,May,3,2015,4999 Naaman Forest Blvd,Garland,TX,Gunshot,Vehicle
+Naeschylus Vinzant,37,Black,March,6,2015,16200 E 12th Ave,Aurora,CO,Gunshot,No
+Natasha McKenna,37,Black,February,8,2015,"Fairfax County Adult Detention Center, 10520 Judicial Dr",Fairfax,VA,Taser,No
+Nathan Massey,33,White,January,15,2015,Becky Sue St,Ville Platte,LA,Gunshot,Knife
+Nehemiah Fischer,35,White,May,29,2015,Hectorville Rd and Bixby Rd,Mounds,OK,Gunshot,No
+Neil Seifert,40,White,March,27,2015,N Main St,Webster,MA,Gunshot,No
+Nephi Arriguin,21,Black,May,7,2015,17200 Pires Ave,Cerritos,CA,Gunshot,Firearm
+Nicholas Brickman,30,White,January,7,2015,SE 4th St and Scott Ave,Des Moines,IA,Gunshot,Firearm
+Nicholas Thomas,23,Black,March,24,2015,2475 Cumberland Pkwy SE,Atlanta,GA,Gunshot,Knife
+Nicolas Tewa,26,Native American,January,27,2015,4130 N Black Canyon Hwy,Phoenix,AZ,Gunshot,No
+Nikki Burtsfield,39,White,May,20,2015,N Garner Lake Rd and Vaquero Ave,Gillette,WY,Gunshot,Firearm
+Norman Cooper,33,Black,April,19,2015,4800 Legend Well Dr,San Antonio,TX,Taser,Vehicle
+Nuwnah Laroche,34,Black,May,6,2015,I-95,Ridgefield Park,NJ,Struck by vehicle,Firearm
+Omarr Jackson,37,Black,January,8,2015,Lasalle St and Josephine St,New Orleans,LA,Gunshot,Firearm
+Orlando Lopez,26,Hispanic/Latino,January,25,2015,Troy Ave and Oakshire Ln,Pueblo,CO,Gunshot,Firearm
+Pablo Meza,24,Hispanic/Latino,January,17,2015,E 6th St and Mateo St,Los Angeles,CA,Gunshot,No
+Patrick Wetter,25,White,January,6,2015,800 Howard St,Stockton,CA,Gunshot,Other
+Paul Anderson,31,Black,April,4,2015,150 E Lincoln Ave,Anaheim,CA,Gunshot,Knife
+Paul Campbell,49,White,January,19,2015,69 Prospect Hill Dr,Weymouth,MA,Gunshot,Firearm
+Paul Johnson,59,White,February,4,2015,7100 Pine Ave,Chino,CA,Gunshot,No
+"Pedro 'Pete' Juan Saldivar",50,Hispanic/Latino,February,17,2015,US-90 and Charles Dr,Del Rio,TX,Gunshot,No
+Philip Conley,37,White,March,21,2015,904 Admiral Callaghan Ln,Vallejo,CA,Gunshot,Firearm
+Phillip Burgess,28,White,April,9,2015,477 Belcher Rd,Boiling Springs,SC,Gunshot,Other
+Phillip Garcia,26,Hispanic/Latino,January,16,2015,12810 Gulf Fwy,Houston,TX,Gunshot,Firearm
+Phillip Watkins,23,Black,February,11,2015,1300 Sherman St,San Jose,CA,Gunshot,Firearm
+Phillip White,32,Black,March,31,2015,118 W Grape St,Vineland,NJ,Death in custody,Firearm
+Quincy Reed Reindl,24,White,January,15,2015,Nesbitt Ave S and 99th St W,Bloomington,MN,Gunshot,Knife
+Ralph Willis,42,White,January,29,2015,604 E Maple Ave,Stillwater,OK,Gunshot,Firearm
+Randall Torrence,34,White,May,27,2015,1225 Quindaro Blvd,Kansas City,KS,Taser,Firearm
+Raymond Kmetz,68,White,January,26,2015,4401 Xylon Ave N,Minneapolis,MN,Gunshot,Other
+Reginald McGregor,31,Black,April,21,2015,200 North Retta St,Fort Worth,TX,Gunshot,Firearm
+"Richard 'Buddy' Weaver",83,White,April,12,2015,Sleepy Hollow Dr and Misty Glen Dr,Newalla,OK,Gunshot,No
+Richard Carlin,35,White,February,13,2015,414 Rehr St,Reading,PA,Gunshot,Firearm
+Richard Castilleja,29,Hispanic/Latino,March,14,2015,2615 Mossrock,San Antonio,TX,Gunshot,Firearm
+Richard Davis,50,Black,May,31,2015,Tremont St and Morgan St,Rochester,NY,Taser,Firearm
+Richard Hanna,56,Unknown,April,6,2015,400 Steuber Rd,Tehachapi,CA,Gunshot,Firearm
+Richard McClendon,43,White,January,13,2015,600 Olive St,Jourdanton,TX,Gunshot,Firearm
+Richard Reed,38,White,April,10,2015,SW Wanamaker Rd and I-70,Topeka,KS,Gunshot,Firearm
+Richard White,63,Black,March,20,2015,"Louis Armstrong New Orleans International Airport, 900 Airline Dr",Kenner,LA,Gunshot,Disputed
+Ricky Hall,27,Black,March,30,2015,NA,Fort Meade,MD,Gunshot,Firearm
+Roark Cook,36,White,May,4,2015,3320 W 9th Ave,Kennewick,WA,Gunshot,Firearm
+Robert Box,55,White,May,29,2015,108 Fir Canyon Rd,Grants Pass,OR,Gunshot,Knife
+Robert Burdge,36,White,March,19,2015,200 Trask St,Bakersfield,CA,Gunshot,Firearm
+Robert Edwards,68,White,January,14,2015,500 Sycamore St,Lake Jackson,TX,Gunshot,No
+Robert Francis Mesch,61,White,January,23,2015,120 W Slaughter Ln,Austin,TX,Gunshot,No
+Robert Frost,46,White,May,5,2015,1847 Bob White Blvd,Pulaski,VA,Gunshot,No
+Robert Kohl,47,White,February,23,2015,175 Bass Pro Blvd,Denham Springs,LA,Gunshot,Firearm
+Robert Rooker,26,White,March,29,2015,Fields Hollow Rd,Peebles,OH,Gunshot,Vehicle
+Robert Washington,37,Black,April,1,2015,14200 Kornblum Ave,Hawthorne,CA,Gunshot,No
+Roberto Leon,22,Hispanic/Latino,March,17,2015,Elkhorn Blvd and Dry Creek Rd,Rio Linda,CA,Gunshot,Knife
+Roberto Ornelas,18,Hispanic/Latino,January,1,2015,39 N Marlin Ave,Key Largo,FL,Unknown,Knife
+Roberto Rodriguez,39,Hispanic/Latino,April,8,2015,4th St and Mathews St,Los Angeles,CA,Gunshot,No
+Rodney Biggs,49,White,February,26,2015,US-49 and Middle Driveway,Gulfport,MS,Gunshot,Other
+Rodney Walker,23,Black,January,16,2015,W 11th St,Tulsa,OK,Gunshot,Firearm
+Rodolfo Velazquez,47,Hispanic/Latino,April,16,2015,West Lerdo Hwy and South Wall St,Shafter,CA,Gunshot,Firearm
+Ronald Sneed,32,Black,January,7,2015,300 Yaupon St,Freeport,TX,Gunshot,Knife
+Ronell Wade,45,Black,May,17,2015,15746 Union Ave,Harvey,IL,Gunshot,No
+Roy Day,51,White,February,14,2015,Gale St,Laredo,TX,Gunshot,Knife
+Rub�_�n Garc�__a Villalpando,31,Hispanic/Latino,February,20,2015,2500 Texas Hwy 121,Euless,TX,Gunshot,Vehicle
+Russell Sharrer,54,White,February,27,2015,1016 N 4th Ave,Pasco,WA,Death in custody,Firearm
+Ryan Burgess,31,White,March,11,2015,2241 Lucille Ave,Kingman,AZ,Gunshot,Firearm
+Salome Rodriguez Jr,23,Hispanic/Latino,March,13,2015,184 W 3rd St,Pomona,CA,Gunshot,Knife
+Salvador Figueroa,29,Hispanic/Latino,January,11,2015,"Circle K, 1301 N Eastern Ave",Las Vegas,NV,Gunshot,No
+Salvador Muna,28,Hispanic/Latino,February,4,2015,E Baseline Rd and S 48th St,Phoenix,AZ,Gunshot,Firearm
+Sam Holmes,31,Black,May,8,2015,University Ave NE and I-694,Fridley,MN,Gunshot,No
+"Santos 'Cuate' Cortez Hernandez",24,Hispanic/Latino,April,20,2015,NA,Mission,TX,Gunshot,Firearm
+Sawyer Flache,27,White,February,8,2015,Texas Hwy 71 and Silvermine Dr,Austin,TX,Gunshot,No
+Scott Dunham,57,White,March,24,2015,2600 Senter Rd,San Jose,CA,Gunshot,Firearm
+Scott McAllister,39,Unknown,May,27,2015,33 Bayside Pkwy,Middletown,NJ,Gunshot,Non-lethal firearm
+Sean Pelletier,38,White,May,14,2015,"6095 Anna's Ln",Portage,MI,Gunshot,Firearm
+Sergio Navas,34,Hispanic/Latino,March,5,2015,N Pass Ave and W National Ave,Burbank,CA,Gunshot,Firearm
+Shane Watkins,39,White,March,19,2015,1040 County Rd 249,Moulton,AL,Gunshot,Other
+Shaquille Barrow,20,Black,March,2,2015,Richards St,Joliet,IL,Gunshot,Firearm
+Shaun Johnson,35,White,May,8,2015,59705 E Bidegain Pl,Kearny,AZ,Gunshot,No
+Shawn Clyde,36,White,April,1,2015,110 Nottinghill Ln,Hamilton Township,NJ,Gunshot,Firearm
+Sheldon Haleck,38,Asian/Pacific Islander,March,16,2015,364 S King St,Honolulu,HI,Taser,No
+Simon Hubble,33,White,May,27,2015,3600 Emmanuel Way,Alpine,CA,Gunshot,Firearm
+Sinthanouxay Khottavongsa,57,Asian/Pacific Islander,January,16,2015,5900 Xerxes Ave N,Minneapolis,MN,Taser,Firearm
+Stanley Grant,38,Black,February,20,2015,2200 Green Springs Hwy,Birmingham,AL,Gunshot,Firearm
+Stanley Watson,72,White,April,15,2015,3120 East Main St,Ca�_�on City,CO,Gunshot,Firearm
+Stephanie Hill,37,White,February,28,2015,I-10,La Paz County,AZ,Gunshot,No
+Stephen Cunningham,47,White,May,11,2015,3420 S Proctor St,Tacoma,WA,Gunshot,Knife
+Steven Davenport,43,White,April,21,2015,Old Hwy 19 SE,Meridian,MS,Taser,No
+Steven Snyder,37,White,March,24,2015,760 W Johnson St,Fond du Lac,WI,Gunshot,Firearm
+Talbot Schroeder,75,White,January,14,2015,40 Cedar Grove Pl,Old Bridge Township,NJ,Gunshot,Knife
+Terence Walker,21,Black,January,17,2015,Old Agency Baptist Church,Muskogee,OK,Gunshot,Firearm
+Terrance Kellom,20,Black,April,27,2015,9500 Evergreen Rd,Detroit,MI,Gunshot,Firearm
+Terrance Moxley,29,Black,March,10,2015,280 N Main St,Mansfield,OH,Taser,Firearm
+Terry Garnett Jr,37,Black,March,11,2015,Augustine Herman Hwy & E Lewis Shore Rd,Elkton,MD,Gunshot,Knife
+Terry Price,41,Black,February,21,2015,951 West 36th St N,Tulsa,OK,Taser,Firearm
+Tevin Barkley,22,Black,April,15,2015,800 NW 75th St,Miami,FL,Gunshot,Knife
+Thaddeus McCarroll,23,Black,April,17,2015,9200 Riverwood Dr,Jennings,MO,Gunshot,Knife
+Theodore Johnson,64,Black,March,10,2015,6902 Ottawa Rd,Cleveland,OH,Gunshot,No
+Thomas Allen Jr,34,Black,March,1,2015,Morton Ave and Chatham Ave,St Louis,MO,Gunshot,Firearm
+Thomas Hamby,49,White,January,8,2015,2964 W 2125 S,Syracuse,UT,Gunshot,Firearm
+Thong Kien Ma,32,Asian/Pacific Islander,May,5,2015,10400 Enloe St,South El Monte,CA,Gunshot,Knife
+Tiano Meton,25,Black,January,22,2015,I-10,Sierra Blanca,TX,Gunshot,Other
+Tiffany Terry,39,White,January,30,2015,1702 S 50th St,Omaha,NE,Gunshot,Firearm
+Tim Elliott,53,Unknown,January,2,2015,600 E Island Lake Dr,Shelton,WA,Gunshot,Non-lethal firearm
+Timothy Jones,27,White,May,17,2015,111 Otero Dr,Ruidoso,NM,Gunshot,Firearm
+Todd Allen Hodge,36,White,January,21,2015,40200 Clark Dr,Hemet,CA,Gunshot,Firearm
+Todd Jamal Dye,20,Black,April,24,2015,1505 E Main St,Trinidad,CO,Gunshot,Firearm
+Tommy Smith,39,White,January,12,2015,224 Circle Dr,Arcola,IL,Gunshot,Firearm
+Tony Robinson,19,Black,March,6,2015,1125 Williamson St,Madison,WI,Gunshot,Firearm
+Tony Ross,34,White,March,6,2015,Lamar St and Whitworth St,Sulphur Springs,TX,Taser,Knife
+Troy Boyd,36,White,March,15,2015,McEwien Swamp Rd,Ruth,MS,Gunshot,Firearm
+Tyrel Vick,34,White,March,20,2015,Oklahoma Hwy 48 and E1750 Rd,Wapanucka,OK,Gunshot,Firearm
+Tyrell Larsen,31,White,April,6,2015,E 100 N,Rigby,ID,Gunshot,No
+Tyrone Ryerson,45,Black,March,5,2015,468 E Plainfield Ave,Milwaukee,WI,Gunshot,Non-lethal firearm
+Tyson Hubbard,34,White,March,5,2015,27th St and Fletcher Ave,Lincoln,NE,Gunshot,Unknown
+Unknown,Unknown,Unknown,January,16,2015,Co Rd 2718,Mabank,TX,Gunshot,Other
+Unknown,Unknown,Unknown,May,25,2015,6505 Shirley Ave,Austin,TX,Gunshot,Knife
+Unknown,Unknown,White,June,1,2015,271 Greece Ridge Center Dr,Rochester,NY,Gunshot,Firearm
+Victor Reyes,31,Hispanic/Latino,January,31,2015,West Little York Rd,Houston,TX,Gunshot,No
+Victor Terrazas,28,Hispanic/Latino,March,25,2015,10200 S Vermont Ave,Los Angeles,CA,Gunshot,Firearm
+Vincent Cordaro,57,White,February,9,2015,N Little Tor Rd,New City,NY,Gunshot,Firearm
+Walter Brown III,29,Black,March,24,2015,19 Colin Drive S,Portsmouth,VA,Gunshot,Other
+Walter Scott,50,Black,April,4,2015,1945 Remount Rd,North Charleston,SC,Gunshot,Knife
+Wendell King,40,White,January,29,2015,4800 Hildring Dr E,Forth Worth,TX,Gunshot,Unknown
+Wilber Castillo-Gongora,35,Hispanic/Latino,February,5,2015,US-287,Electra,TX,Taser,Unknown
+"William 'Rusty' Smith",53,White,March,10,2015,700 Valley St,Hoover,AL,Gunshot,No
+William Campbell,59,Unknown,January,25,2015,335 New Brooklyn Rd,Berlin,NJ,Gunshot,Non-lethal firearm
+William Chapman II,18,Black,April,22,2015,1098 Frederick Blvd,Portsmouth,VA,Gunshot,No
+William Dick III,28,Native American,April,4,2015,Bureau of Indian Affairs Rd 66,Tonasket,WA,Taser,Firearm
+William Poole,52,White,March,16,2015,130 Wedowee Ln,Gaston,NC,Gunshot,Firearm
+Yuvette Henderson,38,Black,February,3,2015,3800 Hollis St,Oakland,CA,Gunshot,Firearm
+Zaki Shinwary,48,Unknown,January,16,2015,Lake Arrowhead Ave and Great Salt Lake Dr,Fremont,CA,Gunshot,Firearm
