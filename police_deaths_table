@@ -1,7 +1,8 @@
+DROP TABLE police_deaths
+
 CREATE TABLE police_deaths (
-id INT PRIMARY KEY,
-cause_short TEXT,
-state TEXT
+state TEXT PRIMARY KEY,
+police_shooting_deaths TEXT
 );
 
 select * from police_deaths;
