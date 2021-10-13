@@ -1,4 +1,4 @@
-CREATE TABLE state_info (
+CREATE TABLE state_info(
 	"State" CHAR(2) PRIMARY KEY, 
     "Population" BIGINT   NOT NULL ,
     "Population Black" BIGINT   NOT NULL,
@@ -33,5 +33,26 @@ CREATE TABLE state_info (
 	"Police Protection Expenditure Percentage of Budget" FLOAT, 
 	"Correction Expenditure" BIGINT,
 	"Correction Expenditure per capita" BIGINT,
-	"Correction Expenditure Percentage of Budget" FLOAT, 
-	)
+	"Correction Expenditure Percentage of Budget" FLOAT 
+);
+
+CREATE TABLE police_killings(
+		"ID" SERIAL PRIMARY KEY,
+		"Name" VARCHAR,
+		"Age" VARCHAR,
+		"Ethnicity" VARCHAR,
+		"Month" VARCHAR,
+		"Day" INT,
+		"Year" INT,
+		"Street Address" VARCHAR,
+		"City" VARCHAR,
+		"State" VARCHAR,
+		"Cause of Death" VARCHAR,
+		"Armed" VARCHAR			
+);
+
+CREATE TABLE police_deaths(
+	"state" CHAR(2) primary key,
+	"police_shooting_deaths" INT,
+	FOREIGN KEY ("state") REFERENCES state_info("State")
+);
