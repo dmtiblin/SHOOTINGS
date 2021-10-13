@@ -1,8 +1,0 @@
-DROP TABLE police_deaths
-
-CREATE TABLE police_deaths (
-state TEXT PRIMARY KEY,
-police_shooting_deaths TEXT
-);
-
-select * from police_deaths;
