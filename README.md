@@ -9,12 +9,12 @@ Our team compiled data from several sources and used Excel & Python (in particul
 
 ## Sources of the data:
 
-● Police Deaths
+* Police Deaths
 (https://www.kaggle.com/mysarahmadbhat/police-deaths?select=clean_data.csv)
-● US Census 2015 Annual Survey of State Government Finances Tables
+* US Census 2015 Annual Survey of State Government Finances Tables
 (https://www.census.gov/data/tables/2015/econ/state/historical-tables.html)
-● US Census API  
-● US Police Shootings 
+* US Census API  
+* US Police Shootings 
 (https://www.kaggle.com/ahsen1330/us-police-shootings)
 
 ## Future Data Exploration
@@ -22,14 +22,14 @@ Our team compiled data from several sources and used Excel & Python (in particul
 The purpose of this specific project was to practice ETL, however, this database could be used to explore data further. Our team had the following questions for potential exploration: 
 
 
-● Compare the Police protection expenditure to the number of police shootings that end in
+* Compare the Police protection expenditure to the number of police shootings that end in
 fatality for each state. Do states that spend a larger proportion of their expenditures have higher # of
 fatalities?
-● Compare the number of police deaths caused by gunfire to the number of police
+* Compare the number of police deaths caused by gunfire to the number of police
 shootings that end in fatality for each state.
-● Compare the percentages of fatalities by race for each state with the overall state
+* Compare the percentages of fatalities by race for each state with the overall state
 population. Are the relative race breakouts equivalent between the killings and the overall
 population?
-● Compare the public welfare expenditures by state with the police fatalities. Do states that spend a larger percentage of their expenditures on welfare have a
+* Compare the public welfare expenditures by state with the police fatalities. Do states that spend a larger percentage of their expenditures on welfare have a
 lower rate of police killings?
-● Compare the poverty levels by state with police fatalities. Do poorer states have higher rates of police killings
+* Compare the poverty levels by state with police fatalities. Do poorer states have higher rates of police killings
